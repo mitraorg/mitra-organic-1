@@ -70,7 +70,7 @@ const NavigationPreview = ({ entry }) => {
     <header className="header-primary">
       <div className="logo">
         <a href="/">
-          <img src="/images/logo.svg" alt="Kaldi"/>
+          <img src="/images/mitra-logo.png" alt="Mitra Organic Solutions"/>
         </a>
       </div>
       <a className="nav-button">
