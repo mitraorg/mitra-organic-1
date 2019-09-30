@@ -1,9 +1,8 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
+title: "Just in: The launch of our products into the market"
+date: 2019-08-10T09:01+02:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We’re proud to announce that we have launched our products into the market.
 image: /images/uploads/news_item-03.jpg
 ---
 
@@ -15,7 +14,7 @@ Blue Mountain Peak is the highest mountain in Jamaica and one of the highest pea
 
 The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
@@ -26,4 +25,3 @@ Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classificatio
 Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
 The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
